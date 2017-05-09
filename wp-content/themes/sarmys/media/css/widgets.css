@@ -1,0 +1,1432 @@
+aside div.widget h4.widget-title a {
+  font-size: inherit;
+  line-height: inherit;
+}
+aside div.widget h4.widget-title img {
+  float: left;
+  margin: 5px 10px 0px 0px;
+}
+aside div.widget.tempo_widget_post_categories ul li {
+  padding: 12px 3px;
+}
+aside div.widget,
+aside div.widget p,
+aside div.widget div.rssSummary {
+  font-size: 15px;
+  line-height: 33px;
+}
+aside div.widget.widget_tag_cloud div.tagcloud,
+aside div.widget.tempo_widget_post_tags div.tagcloud {
+  margin: -5px;
+  padding: 0px;
+}
+aside div.widget ul li {
+  font-size: 13px;
+}
+aside div.widget.widget_pages ul ul,
+aside div.widget.widget_nav_menu ul ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+aside div.widget.widget_pages ul li a,
+aside div.widget.widget_nav_menu ul li a {
+  margin-left: 20px;
+}
+aside div.widget.widget_pages ul li:before,
+aside div.widget.widget_nav_menu ul li:before {
+  color: #b0bcc7;
+  content: '\ea60';
+  position: absolute;
+  font-size: 9px;
+  margin-right: 10px;
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  speak: none;
+  text-align: center;
+  text-decoration: inherit;
+  text-transform: none;
+  font-weight: bold;
+}
+aside div.widget.widget_pages ul li:hover:before,
+aside div.widget.widget_nav_menu ul li:hover:before {
+  color: #fd907a;
+}
+aside div.widget.zeon_widget_comments div.comment-avatar,
+aside div.widget.zeon_widget_comments div.comment-avatar img {
+  width: 76px;
+  height: 76px;
+  margin: 0px;
+}
+aside div.widget.zeon_widget_comments h5,
+aside div.widget.zeon_widget_comments p {
+  margin-left: 76px;
+  padding-left: 7.5%;
+}
+aside div.widget.zeon_widget_comments ul li h5 {
+  margin-left: 76px;
+}
+aside div.widget.zeon_widget_posts_list div.post-thumbnail-wrapper,
+aside div.widget.zeon_widget_posts_list div.post-thumbnail-wrapper img {
+  max-width: 76px;
+}
+aside div.widget.zeon_widget_posts_list ul li h5 {
+  margin-left: 76px;
+}
+aside div.widget.zeon_widget_posts_list ul li span.post-meta {
+  font-size: 12px;
+  font-weight: lighter;
+  margin-top: 10px;
+  margin-left: 76px;
+  padding-left: 7.5%;
+}
+aside div.widget.zeon_widget_posts_list ul li span.post-meta,
+aside div.widget.zeon_widget_posts_list ul li span.post-meta a {
+  color: #b0bcc7;
+  font-family: inherit;
+}
+aside div.widget.zeon_widget_posts_list ul li span.post-meta a:hover {
+  color: #6e7780;
+}
+aside div.widget.zeon_widget_posts_list h5,
+aside div.widget.zeon_widget_posts_list p {
+  margin-left: 76px;
+  padding-left: 7.5%;
+}
+aside div.widget.zeon_widget_posts ul li span.post-meta {
+  font-size: 12px;
+  font-weight: lighter;
+  margin-top: 10px;
+}
+aside div.widget.zeon_widget_posts ul li span.post-meta,
+aside div.widget.zeon_widget_posts ul li span.post-meta a {
+  color: #b0bcc7;
+  font-family: inherit;
+}
+aside div.widget.zeon_widget_posts ul li span.post-meta a:hover {
+  color: #6e7780;
+}
+aside div.widget.zeon_widget_infobox .widget-title i {
+  color: #96cf4d;
+  margin-left: 0px;
+  margin-right: 18px;
+}
+aside div.widget.zeon_widget_infobox div.content {
+  padding-left: 0px;
+}
+aside div.widget.zeon_widget_infobox a.read-more {
+  color: #ffffff;
+  background-color: #fd907a;
+  border-color: #fd907a;
+  margin-left: 0px;
+  padding: 0px 15px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-radius: 100px;
+}
+aside div.widget.zeon_widget_infobox a.read-more:hover {
+  color: #ffffff;
+  background-color: #e3816e;
+  border-color: #e3816e;
+}
+aside div.sidebar-content div.widget h4.widget-title {
+  padding-bottom: 0px;
+}
+aside div.sidebar-content div.widget.widget_rss ul li,
+aside div.sidebar-content div.widget.widget_pages ul li,
+aside div.sidebar-content div.widget.widget_meta ul li,
+aside div.sidebar-content div.widget.widget_categories ul li,
+aside div.sidebar-content div.widget.widget_archive ul li,
+aside div.sidebar-content div.widget.widget_nav_menu ul li,
+aside div.sidebar-content div.widget.widget_recent_entries ul li,
+aside div.sidebar-content div.widget.widget_recent_comments ul li,
+aside div.sidebar-content div.widget.tempo_widget_post_meta ul li,
+aside div.sidebar-content div.widget.zeon_widget_categories ul li,
+aside div.sidebar-content div.widget.tempo_widget_categories ul li {
+  border-top: 1px dashed rgba(0, 0, 0, 0.1);
+}
+aside div.sidebar-content div.widget.zeon_widget_comments h4.widget-title,
+aside div.sidebar-content div.widget.zeon_widget_posts h4.widget-title,
+aside div.sidebar-content div.widget.zeon_widget_posts_list h4.widget-title {
+  margin-bottom: 4px;
+}
+aside div.sidebar-content div.widget.zeon_widget_comments ul li,
+aside div.sidebar-content div.widget.zeon_widget_posts ul li,
+aside div.sidebar-content div.widget.zeon_widget_posts_list ul li {
+  border: none;
+}
+aside div.sidebar-content div.widget.zeon_widget_posts h4.widget-title {
+  margin-bottom: 0px;
+}
+aside.sidebar-content-wrapper div.widget h4.widget-title + *,
+aside.header-sidebar div.widget h4.widget-title + *,
+aside.tempo-footer.light-sidebars div.widget h4.widget-title + * {
+  margin-top: 0px;
+}
+aside.sidebar-content-wrapper div.widget h4.widget-title + div.tagcloud,
+aside.header-sidebar div.widget h4.widget-title + div.tagcloud,
+aside.tempo-footer.light-sidebars div.widget h4.widget-title + div.tagcloud {
+  margin-top: -5px;
+}
+aside.sidebar-content-wrapper div.widget h4.widget-title + div > *,
+aside.header-sidebar div.widget h4.widget-title + div > *,
+aside.tempo-footer.light-sidebars div.widget h4.widget-title + div > * {
+  margin-top: 0px;
+}
+aside.sidebar-content-wrapper div.widget a,
+aside.header-sidebar div.widget a,
+aside.tempo-footer.light-sidebars div.widget a {
+  color: #676d73;
+  font-size: 13px;
+  font-weight: 400;
+}
+aside.sidebar-content-wrapper div.widget a:hover,
+aside.header-sidebar div.widget a:hover,
+aside.tempo-footer.light-sidebars div.widget a:hover {
+  color: #1d1d1f;
+}
+aside.sidebar-content-wrapper div.widget p,
+aside.header-sidebar div.widget p,
+aside.tempo-footer.light-sidebars div.widget p {
+  color: #676d73;
+}
+aside.sidebar-content-wrapper div.widget h4.widget-title,
+aside.header-sidebar div.widget h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget h4.widget-title {
+  border: none;
+  margin: 0 0 40px;
+  color: #1a1a1b;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss h4.widget-title,
+aside.header-sidebar div.widget.widget_rss h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_rss h4.widget-title,
+aside.sidebar-content-wrapper div.widget.widget_pages h4.widget-title,
+aside.header-sidebar div.widget.widget_pages h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_pages h4.widget-title,
+aside.sidebar-content-wrapper div.widget.widget_meta h4.widget-title,
+aside.header-sidebar div.widget.widget_meta h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_meta h4.widget-title,
+aside.sidebar-content-wrapper div.widget.widget_categories h4.widget-title,
+aside.header-sidebar div.widget.widget_categories h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_categories h4.widget-title,
+aside.sidebar-content-wrapper div.widget.widget_archive h4.widget-title,
+aside.header-sidebar div.widget.widget_archive h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_archive h4.widget-title,
+aside.sidebar-content-wrapper div.widget.widget_nav_menu h4.widget-title,
+aside.header-sidebar div.widget.widget_nav_menu h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu h4.widget-title,
+aside.sidebar-content-wrapper div.widget.widget_recent_entries h4.widget-title,
+aside.header-sidebar div.widget.widget_recent_entries h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_entries h4.widget-title,
+aside.sidebar-content-wrapper div.widget.widget_recent_comments h4.widget-title,
+aside.header-sidebar div.widget.widget_recent_comments h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments h4.widget-title,
+aside.sidebar-content-wrapper div.widget.tempo_widget_post_tags h4.widget-title,
+aside.header-sidebar div.widget.tempo_widget_post_tags h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags h4.widget-title,
+aside.sidebar-content-wrapper div.widget.zeon_widget_categories h4.widget-title,
+aside.header-sidebar div.widget.zeon_widget_categories h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories h4.widget-title,
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments h4.widget-title,
+aside.header-sidebar div.widget.zeon_widget_comments h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments h4.widget-title,
+aside.sidebar-content-wrapper div.widget.tempo_widget_categories h4.widget-title,
+aside.header-sidebar div.widget.tempo_widget_categories h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories h4.widget-title {
+  padding: 0px;
+  margin-bottom: 15px;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss h4.widget-title + label,
+aside.header-sidebar div.widget.widget_rss h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_rss h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.widget_pages h4.widget-title + label,
+aside.header-sidebar div.widget.widget_pages h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_pages h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.widget_meta h4.widget-title + label,
+aside.header-sidebar div.widget.widget_meta h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_meta h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.widget_categories h4.widget-title + label,
+aside.header-sidebar div.widget.widget_categories h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_categories h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.widget_archive h4.widget-title + label,
+aside.header-sidebar div.widget.widget_archive h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_archive h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.widget_nav_menu h4.widget-title + label,
+aside.header-sidebar div.widget.widget_nav_menu h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.widget_recent_entries h4.widget-title + label,
+aside.header-sidebar div.widget.widget_recent_entries h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_entries h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.widget_recent_comments h4.widget-title + label,
+aside.header-sidebar div.widget.widget_recent_comments h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.tempo_widget_post_tags h4.widget-title + label,
+aside.header-sidebar div.widget.tempo_widget_post_tags h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.zeon_widget_categories h4.widget-title + label,
+aside.header-sidebar div.widget.zeon_widget_categories h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments h4.widget-title + label,
+aside.header-sidebar div.widget.zeon_widget_comments h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments h4.widget-title + label,
+aside.sidebar-content-wrapper div.widget.tempo_widget_categories h4.widget-title + label,
+aside.header-sidebar div.widget.tempo_widget_categories h4.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories h4.widget-title + label {
+  margin-top: 25px;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss ul li,
+aside.header-sidebar div.widget.widget_rss ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_rss ul li,
+aside.sidebar-content-wrapper div.widget.widget_pages ul li,
+aside.header-sidebar div.widget.widget_pages ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_pages ul li,
+aside.sidebar-content-wrapper div.widget.widget_meta ul li,
+aside.header-sidebar div.widget.widget_meta ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_meta ul li,
+aside.sidebar-content-wrapper div.widget.widget_categories ul li,
+aside.header-sidebar div.widget.widget_categories ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_categories ul li,
+aside.sidebar-content-wrapper div.widget.widget_archive ul li,
+aside.header-sidebar div.widget.widget_archive ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_archive ul li,
+aside.sidebar-content-wrapper div.widget.widget_nav_menu ul li,
+aside.header-sidebar div.widget.widget_nav_menu ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu ul li,
+aside.sidebar-content-wrapper div.widget.widget_recent_entries ul li,
+aside.header-sidebar div.widget.widget_recent_entries ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_entries ul li,
+aside.sidebar-content-wrapper div.widget.widget_recent_comments ul li,
+aside.header-sidebar div.widget.widget_recent_comments ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments ul li,
+aside.sidebar-content-wrapper div.widget.tempo_widget_post_tags ul li,
+aside.header-sidebar div.widget.tempo_widget_post_tags ul li,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags ul li,
+aside.sidebar-content-wrapper div.widget.zeon_widget_categories ul li,
+aside.header-sidebar div.widget.zeon_widget_categories ul li,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories ul li,
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments ul li,
+aside.header-sidebar div.widget.zeon_widget_comments ul li,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li,
+aside.sidebar-content-wrapper div.widget.tempo_widget_categories ul li,
+aside.header-sidebar div.widget.tempo_widget_categories ul li,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories ul li {
+  padding: 25px 3px;
+  text-transform: uppercase;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss ul ul,
+aside.header-sidebar div.widget.widget_rss ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_rss ul ul,
+aside.sidebar-content-wrapper div.widget.widget_pages ul ul,
+aside.header-sidebar div.widget.widget_pages ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_pages ul ul,
+aside.sidebar-content-wrapper div.widget.widget_meta ul ul,
+aside.header-sidebar div.widget.widget_meta ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_meta ul ul,
+aside.sidebar-content-wrapper div.widget.widget_categories ul ul,
+aside.header-sidebar div.widget.widget_categories ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_categories ul ul,
+aside.sidebar-content-wrapper div.widget.widget_archive ul ul,
+aside.header-sidebar div.widget.widget_archive ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_archive ul ul,
+aside.sidebar-content-wrapper div.widget.widget_nav_menu ul ul,
+aside.header-sidebar div.widget.widget_nav_menu ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu ul ul,
+aside.sidebar-content-wrapper div.widget.widget_recent_entries ul ul,
+aside.header-sidebar div.widget.widget_recent_entries ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_entries ul ul,
+aside.sidebar-content-wrapper div.widget.widget_recent_comments ul ul,
+aside.header-sidebar div.widget.widget_recent_comments ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments ul ul,
+aside.sidebar-content-wrapper div.widget.tempo_widget_post_tags ul ul,
+aside.header-sidebar div.widget.tempo_widget_post_tags ul ul,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags ul ul,
+aside.sidebar-content-wrapper div.widget.zeon_widget_categories ul ul,
+aside.header-sidebar div.widget.zeon_widget_categories ul ul,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories ul ul,
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments ul ul,
+aside.header-sidebar div.widget.zeon_widget_comments ul ul,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul ul,
+aside.sidebar-content-wrapper div.widget.tempo_widget_categories ul ul,
+aside.header-sidebar div.widget.tempo_widget_categories ul ul,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories ul ul {
+  margin-top: 25px;
+  margin-bottom: -25px;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments ul li,
+aside.header-sidebar div.widget.zeon_widget_comments ul li,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts ul li,
+aside.header-sidebar div.widget.zeon_widget_posts ul li,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts_list ul li,
+aside.header-sidebar div.widget.zeon_widget_posts_list ul li,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list ul li {
+  border: none;
+  padding: 35px 3px;
+  position: relative;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments ul li:after,
+aside.header-sidebar div.widget.zeon_widget_comments ul li:after,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li:after,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts ul li:after,
+aside.header-sidebar div.widget.zeon_widget_posts ul li:after,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li:after,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts_list ul li:after,
+aside.header-sidebar div.widget.zeon_widget_posts_list ul li:after,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list ul li:after {
+  content: '';
+  position: absolute;
+  width: 30%;
+  left: 0px;
+  bottom: 0px;
+  height: 1px;
+  background: #e9eaeb;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments ul li:last-child:after,
+aside.header-sidebar div.widget.zeon_widget_comments ul li:last-child:after,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li:last-child:after,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts ul li:last-child:after,
+aside.header-sidebar div.widget.zeon_widget_posts ul li:last-child:after,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li:last-child:after,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts_list ul li:last-child:after,
+aside.header-sidebar div.widget.zeon_widget_posts_list ul li:last-child:after,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list ul li:last-child:after {
+  height: 0px;
+  background: transparent;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts ul li,
+aside.header-sidebar div.widget.zeon_widget_posts ul li,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li {
+  border: none;
+  padding: 40px 3px;
+  position: relative;
+}
+aside.sidebar-content-wrapper div.widget.widget_search h4.widget-title,
+aside.header-sidebar div.widget.widget_search h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_search h4.widget-title,
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter h4.widget-title,
+aside.header-sidebar div.widget.zeon_widget_newsletter h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter h4.widget-title {
+  margin-bottom: 40px;
+}
+aside.sidebar-content-wrapper div.widget.widget_search form,
+aside.header-sidebar div.widget.widget_search form,
+aside.tempo-footer.light-sidebars div.widget.widget_search form,
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter form,
+aside.header-sidebar div.widget.zeon_widget_newsletter form,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form {
+  border: none;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-radius: 100px;
+}
+aside.sidebar-content-wrapper div.widget.widget_search form fieldset,
+aside.header-sidebar div.widget.widget_search form fieldset,
+aside.tempo-footer.light-sidebars div.widget.widget_search form fieldset,
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter form fieldset,
+aside.header-sidebar div.widget.zeon_widget_newsletter form fieldset,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form fieldset {
+  margin: 0px;
+}
+aside.sidebar-content-wrapper div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"],
+aside.header-sidebar div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"],
+aside.tempo-footer.light-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"],
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"],
+aside.header-sidebar div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"],
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"],
+aside.sidebar-content-wrapper div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"],
+aside.header-sidebar div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"],
+aside.tempo-footer.light-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"],
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"],
+aside.header-sidebar div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"],
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"],
+aside.sidebar-content-wrapper div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"],
+aside.header-sidebar div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"],
+aside.tempo-footer.light-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"],
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"],
+aside.header-sidebar div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"],
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"] {
+  margin: 14px 0px 14px 16px;
+  width: -webkit-calc( 100% - 66px );
+  width: -moz-calc( 100% - 66px );
+  width: -ms-calc( 100% - 66px );
+  width: -o-calc( 100% - 66px );
+  width: calc( 100% - 66px );
+}
+aside.sidebar-content-wrapper div.widget.widget_search form fieldset button,
+aside.header-sidebar div.widget.widget_search form fieldset button,
+aside.tempo-footer.light-sidebars div.widget.widget_search form fieldset button,
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter form fieldset button,
+aside.header-sidebar div.widget.zeon_widget_newsletter form fieldset button,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form fieldset button {
+  padding: 9px;
+  margin: 16px 16px 16px 0px;
+  width: auto;
+}
+aside.sidebar-content-wrapper div.widget.widget_search form fieldset button i,
+aside.header-sidebar div.widget.widget_search form fieldset button i,
+aside.tempo-footer.light-sidebars div.widget.widget_search form fieldset button i,
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter form fieldset button i,
+aside.header-sidebar div.widget.zeon_widget_newsletter form fieldset button i,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form fieldset button i,
+aside.sidebar-content-wrapper div.widget.widget_search form fieldset button i:before,
+aside.header-sidebar div.widget.widget_search form fieldset button i:before,
+aside.tempo-footer.light-sidebars div.widget.widget_search form fieldset button i:before,
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter form fieldset button i:before,
+aside.header-sidebar div.widget.zeon_widget_newsletter form fieldset button i:before,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form fieldset button i:before {
+  display: block;
+  width: 16px;
+  line-height: 16px;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_newsletter span.description,
+aside.header-sidebar div.widget.zeon_widget_newsletter span.description,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter span.description {
+  text-indent: 17px;
+}
+aside.sidebar-content-wrapper div.widget.widget_categories,
+aside.header-sidebar div.widget.widget_categories,
+aside.tempo-footer.light-sidebars div.widget.widget_categories,
+aside.sidebar-content-wrapper div.widget.widget_archive,
+aside.header-sidebar div.widget.widget_archive,
+aside.tempo-footer.light-sidebars div.widget.widget_archive {
+  color: #8a99a7;
+  font-weight: 400;
+}
+aside.sidebar-content-wrapper div.widget.widget_categories a,
+aside.header-sidebar div.widget.widget_categories a,
+aside.tempo-footer.light-sidebars div.widget.widget_categories a,
+aside.sidebar-content-wrapper div.widget.widget_archive a,
+aside.header-sidebar div.widget.widget_archive a,
+aside.tempo-footer.light-sidebars div.widget.widget_archive a {
+  margin-right: 5px;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_categories a span,
+aside.header-sidebar div.widget.zeon_widget_categories a span,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories a span,
+aside.sidebar-content-wrapper div.widget.tempo_widget_categories a span,
+aside.header-sidebar div.widget.tempo_widget_categories a span,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories a span {
+  background-color: #ffffff;
+  color: #676363;
+  font-size: 11px;
+}
+aside.sidebar-content-wrapper div.widget.widget_recent_comments ul li,
+aside.header-sidebar div.widget.widget_recent_comments ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments ul li,
+aside.sidebar-content-wrapper div.widget.widget_recent_comments ul li span,
+aside.header-sidebar div.widget.widget_recent_comments ul li span,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments ul li span {
+  color: #8a99a7;
+}
+aside.sidebar-content-wrapper div.widget.widget_calendar div.calendar_wrap caption,
+aside.header-sidebar div.widget.widget_calendar div.calendar_wrap caption,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar div.calendar_wrap caption {
+  text-transform: uppercase;
+  padding-top: 0px;
+  padding-bottom: 15px;
+  margin-bottom: 3px;
+}
+aside.sidebar-content-wrapper div.widget.widget_calendar div.calendar_wrap table,
+aside.header-sidebar div.widget.widget_calendar div.calendar_wrap table,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar div.calendar_wrap table {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -ms-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+}
+aside.sidebar-content-wrapper div.widget.widget_calendar div.calendar_wrap table th,
+aside.header-sidebar div.widget.widget_calendar div.calendar_wrap table th,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar div.calendar_wrap table th,
+aside.sidebar-content-wrapper div.widget.widget_calendar div.calendar_wrap table td,
+aside.header-sidebar div.widget.widget_calendar div.calendar_wrap table td,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar div.calendar_wrap table td {
+  border: 1px solid #ededed;
+}
+aside.sidebar-content-wrapper div.widget.widget_calendar div.calendar_wrap table th,
+aside.header-sidebar div.widget.widget_calendar div.calendar_wrap table th,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar div.calendar_wrap table th {
+  color: #121212;
+}
+aside.sidebar-content-wrapper div.widget.widget_calendar div.calendar_wrap table td,
+aside.header-sidebar div.widget.widget_calendar div.calendar_wrap table td,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar div.calendar_wrap table td {
+  color: #8a99a7;
+}
+aside.sidebar-content-wrapper div.widget.widget_calendar div.calendar_wrap table td a,
+aside.header-sidebar div.widget.widget_calendar div.calendar_wrap table td a,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar div.calendar_wrap table td a {
+  color: #788774;
+}
+aside.sidebar-content-wrapper div.widget.widget_calendar div.calendar_wrap table td a:hover,
+aside.header-sidebar div.widget.widget_calendar div.calendar_wrap table td a:hover,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar div.calendar_wrap table td a:hover {
+  color: #3e4438;
+}
+aside.sidebar-content-wrapper div.widget.widget_recent_entries span,
+aside.header-sidebar div.widget.widget_recent_entries span,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_entries span {
+  display: block;
+  color: #8a99a7;
+}
+aside.sidebar-content-wrapper div.widget.widget_tag_cloud h4.widget-title,
+aside.header-sidebar div.widget.widget_tag_cloud h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_tag_cloud h4.widget-title,
+aside.sidebar-content-wrapper div.widget.tempo_widget_post_tags h4.widget-title,
+aside.header-sidebar div.widget.tempo_widget_post_tags h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags h4.widget-title {
+  margin-bottom: 40px;
+}
+aside.sidebar-content-wrapper div.widget.widget_tag_cloud div.tagcloud a,
+aside.header-sidebar div.widget.widget_tag_cloud div.tagcloud a,
+aside.tempo-footer.light-sidebars div.widget.widget_tag_cloud div.tagcloud a,
+aside.sidebar-content-wrapper div.widget.tempo_widget_post_tags div.tagcloud a,
+aside.header-sidebar div.widget.tempo_widget_post_tags div.tagcloud a,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags div.tagcloud a {
+  background-color: #ffffff;
+  border: none;
+  color: #676363;
+  font-size: 11px !important;
+  font-weight: 400;
+  line-height: 14px;
+  padding: 9px 14px;
+  margin: 5px;
+  text-transform: uppercase;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+}
+aside.sidebar-content-wrapper div.widget.widget_tag_cloud div.tagcloud a:hover,
+aside.header-sidebar div.widget.widget_tag_cloud div.tagcloud a:hover,
+aside.tempo-footer.light-sidebars div.widget.widget_tag_cloud div.tagcloud a:hover,
+aside.sidebar-content-wrapper div.widget.tempo_widget_post_tags div.tagcloud a:hover,
+aside.header-sidebar div.widget.tempo_widget_post_tags div.tagcloud a:hover,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags div.tagcloud a:hover {
+  background: #424148;
+  color: #e9e9ea;
+}
+aside.sidebar-content-wrapper div.widget.widget_text h4.widget-title,
+aside.header-sidebar div.widget.widget_text h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_text h4.widget-title {
+  margin-bottom: 40px;
+}
+aside.sidebar-content-wrapper div.widget.widget_text div.textwidget > p:first-child,
+aside.header-sidebar div.widget.widget_text div.textwidget > p:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_text div.textwidget > p:first-child {
+  margin-top: 0px;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss a,
+aside.header-sidebar div.widget.widget_rss a,
+aside.tempo-footer.light-sidebars div.widget.widget_rss a {
+  color: #8a99a7;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss a:hover,
+aside.header-sidebar div.widget.widget_rss a:hover,
+aside.tempo-footer.light-sidebars div.widget.widget_rss a:hover {
+  color: #1d1d1f;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss div.rssSummary,
+aside.header-sidebar div.widget.widget_rss div.rssSummary,
+aside.tempo-footer.light-sidebars div.widget.widget_rss div.rssSummary {
+  text-transform: none;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss cite,
+aside.header-sidebar div.widget.widget_rss cite,
+aside.tempo-footer.light-sidebars div.widget.widget_rss cite {
+  font-weight: bold;
+}
+aside.sidebar-content-wrapper div.widget.widget_rss span.rss-date,
+aside.header-sidebar div.widget.widget_rss span.rss-date,
+aside.tempo-footer.light-sidebars div.widget.widget_rss span.rss-date {
+  font-weight: normal;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments ul li h5 a,
+aside.header-sidebar div.widget.zeon_widget_comments ul li h5 a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li h5 a,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts ul li h5 a,
+aside.header-sidebar div.widget.zeon_widget_posts ul li h5 a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li h5 a,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts_list ul li h5 a,
+aside.header-sidebar div.widget.zeon_widget_posts_list ul li h5 a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list ul li h5 a {
+  letter-spacing: -0.25px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 23px;
+  text-transform: none;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments p,
+aside.header-sidebar div.widget.zeon_widget_comments p,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments p,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts p,
+aside.header-sidebar div.widget.zeon_widget_posts p,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts p,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts_list p,
+aside.header-sidebar div.widget.zeon_widget_posts_list p,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list p {
+  color: #b0bcc7;
+  font-family: inherit;
+  text-transform: none;
+  margin-top: 10px;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments ul li h5 a,
+aside.header-sidebar div.widget.zeon_widget_comments ul li h5 a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li h5 a,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts ul li h5 a,
+aside.header-sidebar div.widget.zeon_widget_posts ul li h5 a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li h5 a,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts_list ul li h5 a,
+aside.header-sidebar div.widget.zeon_widget_posts_list ul li h5 a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list ul li h5 a {
+  color: #1c1c1d;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_comments ul li h5 a:hover,
+aside.header-sidebar div.widget.zeon_widget_comments ul li h5 a:hover,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li h5 a:hover,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts ul li h5 a:hover,
+aside.header-sidebar div.widget.zeon_widget_posts ul li h5 a:hover,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li h5 a:hover,
+aside.sidebar-content-wrapper div.widget.zeon_widget_posts_list ul li h5 a:hover,
+aside.header-sidebar div.widget.zeon_widget_posts_list ul li h5 a:hover,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list ul li h5 a:hover {
+  color: #000000;
+}
+aside.sidebar-content-wrapper div.widget.zeon_widget_infobox h4.widget-title,
+aside.header-sidebar div.widget.zeon_widget_infobox h4.widget-title,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_infobox h4.widget-title {
+  margin-bottom: 28px;
+}
+aside.sidebar-content-wrapper div.widget.jetpack_subscription_widget p.error,
+aside.header-sidebar div.widget.jetpack_subscription_widget p.error,
+aside.tempo-footer.light-sidebars div.widget.jetpack_subscription_widget p.error {
+  background: #ffffff;
+  padding: 15px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+}
+aside.sidebar-content-wrapper div.widget.jetpack_subscription_widget p.error a,
+aside.header-sidebar div.widget.jetpack_subscription_widget p.error a,
+aside.tempo-footer.light-sidebars div.widget.jetpack_subscription_widget p.error a {
+  color: #51555b;
+}
+aside.sidebar-content-wrapper div.widget.jetpack_subscription_widget p.error a:hover,
+aside.header-sidebar div.widget.jetpack_subscription_widget p.error a:hover,
+aside.tempo-footer.light-sidebars div.widget.jetpack_subscription_widget p.error a:hover {
+  text-decoration: underline;
+}
+aside.sidebar-content-wrapper div.widget {
+  margin-top: 55px;
+  padding-top: 55px;
+  border-top: 1px solid #e9eaeb;
+}
+aside.sidebar-content-wrapper div.widget:first-child {
+  margin-top: 0px;
+  padding-top: 0px;
+  border-top: none;
+}
+aside div.sidebar-content div.widget.tempo_widget_post_meta h4.widget-title,
+aside div.sidebar-content div.widget.tempo_widget_post_categories h4.widget-title {
+  margin-bottom: 16px;
+}
+aside div.sidebar-content div.widget.tempo_widget_post_meta ul li {
+  color: #3e4438;
+}
+aside.tempo-footer.light-sidebars {
+  background-color: #ffffff;
+  border-top: none;
+}
+aside.tempo-footer.light-sidebars div.widget {
+  border: none;
+  margin-top: 55px;
+  margin-bottom: 55px;
+  padding-top: 0px;
+}
+aside.tempo-footer.light-sidebars div.widget h5.widget-title {
+  font-size: 16px;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_rss h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_pages h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_meta h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_categories h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_archive h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_entries h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories h5.widget-title {
+  margin-bottom: 15px;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list h5.widget-title {
+  margin-bottom: 0px;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li span.post-meta a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li span.post-meta a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list ul li span.post-meta a {
+  color: #b0bcc7;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_text h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_search h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_calendar h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter h5.widget-title {
+  margin-bottom: 35px;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_archive h5.widget-title + label,
+aside.tempo-footer.light-sidebars div.widget.widget_categories h5.widget-title + label {
+  margin-top: 30px;
+}
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_meta h5.widget-title {
+  margin-bottom: 23px;
+}
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_meta ul li:first-child {
+  border-top: none;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_rss > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_pages > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_meta > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_categories > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_archive > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_entries > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_rss div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_pages div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_meta div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_categories div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_archive div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_entries div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.widget_recent_comments div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories div > ul > li:first-child,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories div > ul > li:first-child {
+  border-top: none;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_search form,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_newsletter form {
+  border: 1px solid #e6e6f0;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_pages h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu h5.widget-title {
+  padding-bottom: 5px;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_pages h5.widget-title:before,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu h5.widget-title:before {
+  border: none;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_pages:hover h5.widget-title:before,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu:hover h5.widget-title:before {
+  border: none;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_pages ul ul,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu ul ul {
+  margin-top: 25px;
+  margin-bottom: -25px;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_pages ul li,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu ul li {
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+aside.tempo-footer.light-sidebars div.widget.widget_pages ul li a,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu ul li a {
+  margin-left: 20px;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_pages ul li:before,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu ul li:before {
+  color: #b0bcc7;
+  content: '\ea60';
+  position: absolute;
+  font-size: 9px;
+  margin-right: 10px;
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  speak: none;
+  text-align: center;
+  text-decoration: inherit;
+  text-transform: none;
+  font-weight: bold;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_pages ul li:hover:before,
+aside.tempo-footer.light-sidebars div.widget.widget_nav_menu ul li:hover:before {
+  color: #96cf4d;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li h5 a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list ul li h5 a {
+  color: #3b3b3b;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts span a,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list span a {
+  color: #788774;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts span a:hover,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list span a:hover {
+  color: #3e4438;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments ul li h5 a {
+  color: #3b3b3b;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_tag_cloud h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags h5.widget-title {
+  margin-bottom: 35px;
+}
+aside.tempo-footer.light-sidebars div.widget.widget_tag_cloud div.tagcloud a,
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_post_tags div.tagcloud a {
+  background-color: #f3f5f8;
+}
+aside.tempo-footer.light-sidebars div.widget.tempo_widget_categories a span,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_categories a span {
+  background-color: #f3f5f8;
+  font-weight: bold;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_infobox h5 {
+  margin-left: 0px;
+  margin-bottom: 35px;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_infobox h5 i {
+  margin-top: -1px;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_infobox a.read-more,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_infobox a.read-more:hover {
+  color: #ffffff;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_comments h5.widget-title,
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts_list h5.widget-title {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+aside.tempo-footer.light-sidebars div.widget.zeon_widget_posts ul li:first-child {
+  padding-top: 20px;
+}
+aside.tempo-footer.dark-sidebars {
+  background: #25292b;
+}
+aside.tempo-footer.dark-sidebars div.widget {
+  margin-top: 55px;
+  margin-bottom: 55px;
+  padding-top: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title a {
+  color: #ffffff;
+  letter-spacing: -0.25px;
+  font-weight: 400;
+  padding: 0px;
+  margin-bottom: 40px;
+}
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title:before,
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title a:before {
+  border-bottom: none;
+  width: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title + *,
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title a + * {
+  margin-top: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title + * > *:first-child:not(fieldset),
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title a + * > *:first-child:not(fieldset) {
+  margin-top: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget h5.widget-title a {
+  text-decoration: underline;
+}
+aside.tempo-footer.dark-sidebars div.widget:hover h5.widget-title:before {
+  border-bottom: none;
+  width: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget > *:first-child {
+  margin-top: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget > *:first-child > *:first-child:not(fieldset) {
+  margin-top: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget a {
+  color: rgba(255, 255, 255, 0.7);
+}
+aside.tempo-footer.dark-sidebars div.widget a:hover {
+  color: #ffffff;
+}
+aside.tempo-footer.dark-sidebars div.widget,
+aside.tempo-footer.dark-sidebars div.widget p {
+  color: rgba(255, 255, 255, 0.5);
+  line-height: 27px;
+  font-size: 15px;
+}
+aside.tempo-footer.dark-sidebars div.widget strong {
+  color: rgba(255, 255, 255, 0.6);
+}
+aside.tempo-footer.dark-sidebars div.widget p {
+  line-height: 27px;
+}
+aside.tempo-footer.dark-sidebars div.widget select:focus,
+aside.tempo-footer.dark-sidebars div.widget textarea:focus,
+aside.tempo-footer.dark-sidebars div.widget input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset]):focus,
+aside.tempo-footer.dark-sidebars div.widget input[type="tel"]:focus,
+aside.tempo-footer.dark-sidebars div.widget input[type="url"]:focus,
+aside.tempo-footer.dark-sidebars div.widget input[type="text"]:focus,
+aside.tempo-footer.dark-sidebars div.widget input[type="email"]:focus,
+aside.tempo-footer.dark-sidebars div.widget input[type="phone"]:focus,
+aside.tempo-footer.dark-sidebars div.widget input[type="number"]:focus,
+aside.tempo-footer.dark-sidebars div.widget input[type="password"]:focus,
+aside.tempo-footer.dark-sidebars div.widget select:active,
+aside.tempo-footer.dark-sidebars div.widget textarea:active,
+aside.tempo-footer.dark-sidebars div.widget input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset]):active,
+aside.tempo-footer.dark-sidebars div.widget input[type="tel"]:active,
+aside.tempo-footer.dark-sidebars div.widget input[type="url"]:active,
+aside.tempo-footer.dark-sidebars div.widget input[type="text"]:active,
+aside.tempo-footer.dark-sidebars div.widget input[type="email"]:active,
+aside.tempo-footer.dark-sidebars div.widget input[type="phone"]:active,
+aside.tempo-footer.dark-sidebars div.widget input[type="number"]:active,
+aside.tempo-footer.dark-sidebars div.widget input[type="password"]:active {
+  border-color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.8);
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_search h4.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter h4.widget-title {
+  margin-bottom: 40px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_search form,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form {
+  border: none;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-radius: 100px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset {
+  margin: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"],
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"],
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"],
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"],
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"],
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"] {
+  margin: 14px 0px 14px 16px;
+  width: -webkit-calc( 100% - 66px );
+  width: -moz-calc( 100% - 66px );
+  width: -ms-calc( 100% - 66px );
+  width: -o-calc( 100% - 66px );
+  width: calc( 100% - 66px );
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"]:focus,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"]:focus,
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"]:focus,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"]:focus,
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"]:focus,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"]:focus,
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"]:active,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="text"]:active,
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"]:active,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="email"]:active,
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"]:active,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset input:not([type=submit]):not([type=file]):not([type=button]):not([type=reset])[type="search"]:active {
+  color: rgba(255, 255, 255, 0.8);
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset button,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset button {
+  padding: 9px;
+  margin: 16px 16px 16px 0px;
+  width: auto;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset button i,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset button i,
+aside.tempo-footer.dark-sidebars div.widget.widget_search form fieldset button i:before,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter form fieldset button i:before {
+  display: block;
+  width: 16px;
+  line-height: 16px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_newsletter span.description {
+  text-indent: 17px;
+  color: rgba(255, 255, 255, 0.3);
+}
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_meta h5.widget-title {
+  margin-bottom: 25px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories ul li,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories ul li {
+  text-transform: uppercase;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories ul li a span,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories ul li a span {
+  background: rgba(255, 255, 255, 0.04);
+  font-weight: bold;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories ul li a:hover span,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories ul li a:hover span {
+  background: rgba(255, 255, 255, 0.08);
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul li {
+  border: none;
+  font-size: 14px;
+  position: relative;
+  line-height: 28px;
+  padding: 15px 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul li:before,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul li:before,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul li:before,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul li:before,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul li:before {
+  color: rgba(255, 255, 255, 0.1);
+  content: '\ea60';
+  position: absolute;
+  font-size: 9px;
+  margin-right: 10px;
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  speak: none;
+  text-align: center;
+  text-decoration: inherit;
+  text-transform: none;
+  font-weight: bold;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul li:hover:before,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul li:hover:before,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul li:hover:before,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul li:hover:before,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul li:hover:before {
+  color: #96cf4d;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul li a {
+  padding-left: 10px;
+  margin-left: 15px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_infobox h5.widget-title {
+  margin-left: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_infobox h5.widget-title i {
+  color: #96cf4d;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_infobox div.content {
+  color: rgba(255, 255, 255, 0.6);
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_infobox a.read-more {
+  line-height: 33px;
+  border-color: #fd907a;
+  color: rgba(255, 255, 255, 0.6);
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_infobox a.read-more:hover {
+  border-color: #eb8671;
+  color: #ffffff;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories h5.widget-title {
+  margin-bottom: 25px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories h5.widget-title + label,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories h5.widget-title + label {
+  margin-top: 15px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments ul,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags ul,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories ul,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments ul li,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul li,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul li,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags ul li,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories ul li,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories ul li {
+  border-top: 1px solid rgba(255, 255, 255, 0.03);
+  color: rgba(255, 255, 255, 0.3);
+  padding: 15px 3px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories ul li ul,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories ul li ul {
+  margin-left: 20px;
+  margin-bottom: -15px;
+  margin-top: 15px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries ul li a,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments ul li a,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li a,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul li a,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul li a,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags ul li a,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories ul li a,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories ul li a {
+  color: rgba(255, 255, 255, 0.5);
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories ul li a:hover,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories ul li a:hover {
+  color: #ffffff;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_rss div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_pages div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_meta div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_categories div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_archive div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_nav_menu div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories div > ul > li:first-child,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories div > ul > li:first-child {
+  border-top: none;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss h5.widget-title {
+  margin-bottom: 15px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li {
+  text-transform: uppercase;
+  padding: 25px 3px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list h5.widget-title {
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-bottom: 5px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul li,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul li {
+  padding: 35px 3px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li h5,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul li h5,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul li h5 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0px;
+  margin-left: 76px;
+  padding-left: 7.5%;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li h5 a:hover,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul li h5 a:hover,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul li h5 a:hover {
+  color: #96cf4d;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts ul li h5 {
+  margin: 20px 0px 10px 0px;
+  padding: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list ul li span.post-meta {
+  margin-left: 76px;
+  padding-left: 7.5%;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list div.post-thumbnail-wrapper,
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_posts_list div.post-thumbnail-wrapper img {
+  max-width: 76px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments h5.widget-title {
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-bottom: 5px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li div.comment-avatar {
+  margin: 0px;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li p {
+  margin-top: 10px;
+  margin-left: 76px;
+  padding-left: 7.5%;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_comments ul li,
+aside.tempo-footer.dark-sidebars div.widget.widget_recent_entries ul li {
+  text-transform: uppercase;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li a.rsswidget {
+  color: rgba(255, 255, 255, 0.7);
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li a.rsswidget:hover {
+  color: #ffffff;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li div.rssSummary {
+  text-transform: none;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_rss ul li cite {
+  font-weight: bold;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_comments ul li h5 a {
+  font-weight: 600;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_calendar div.calendar_wrap table {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -ms-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_calendar div.calendar_wrap table td {
+  color: rgba(255, 255, 255, 0.2);
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_tag_cloud h5.widget-title,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags h5.widget-title {
+  margin-bottom: 40px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_tag_cloud div.tagcloud a,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags div.tagcloud a {
+  background: rgba(255, 255, 255, 0.04);
+  border: none;
+  font-size: 11px !important;
+  line-height: 14px;
+  font-weight: 600;
+  padding: 9px 14px;
+  margin: 5px;
+  text-transform: uppercase;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_tag_cloud div.tagcloud a:hover,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_post_tags div.tagcloud a:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border: none;
+  color: #ffffff;
+}
+aside.tempo-footer.dark-sidebars div.widget.zeon_widget_categories a span,
+aside.tempo-footer.dark-sidebars div.widget.tempo_widget_categories a span {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_calendar h5.widget-title {
+  margin-bottom: 32px;
+}
+aside.tempo-footer.dark-sidebars div.widget.widget_calendar div.calendar_wrap table td,
+aside.tempo-footer.dark-sidebars div.widget.widget_calendar div.calendar_wrap table th {
+  background: rgba(255, 255, 255, 0.02);
+}

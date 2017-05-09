@@ -1,0 +1,6 @@
+header.tempo-header div.tempo-topper div.tempo-site-identity a.tempo-site-title,
+header.tempo-header div.tempo-header-partial.tempo-portfolio span.counter-wrapper,
+aside div.widget.widget_rss cite,
+aside div.widget.widget_rss span.rss-date {
+  font-family: Quicksand, sans-serif;
+}

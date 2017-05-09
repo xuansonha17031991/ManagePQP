@@ -1,0 +1,118 @@
+/*
+Theme Name: Tempo
+Theme URI: http://mythem.es/item/tempo-is-the-best-blogging-wordpress-theme/
+Description: Tempo is an white, clean, elegant, modern, beautiful and creative free WordPress theme built with HTML5 and CSS3. The clean, modern design can be used for any type of website blog: business, corporate, portfolio, products, creative, arts, design, construction, transport, manufacturing, ecology, cosmetics, beauty, hygiene, sports, culture, presentations, food business, eco food, restaurants, drink, bar, pub, club, radio, tv, television, music, movies, live style, garden, cuisine, chemical, pharmaceutical, medicine, travel, sample blog, agriculture, science, politics and more others. Theme comes with nice flat design concept and responsive layout. This theme is suitable for all type of devices: desktop, notebook, iPhone, tablete and others. Responsive design and grid system is based on twitter bootstrap framework. Theme is developed by myThem.es and it comes with nice header parallax effect. We carefully handcrafted this theme with a strong focus on typography, usability and overall user-experience. This beautiful and easy to customize WordPress theme come with live preview changes integrated with wp customize. It’s very quick to setup and easy to customize and it comes with free support. Theme features: custom header, parallax header, header buttons, custom logo, custom favicon, header custom colors, custom background color, custom background image, custom footer, custom copyright, custom social links, custom css, custom layout, left sidebar, right sidebar, full width layout, additional sidebars, custom widgets, support for jetpack plugin, styled contact form 7 plugin. Please read the FAQ: Admin Dashboard > Appearances > Theme FAQ. See our demo: http://bit.ly/2gPmAcr
+Version: 0.0.36
+Tags:  blog, news, featured-images, one-column, theme-options, translation-ready, custom-colors, custom-menu, threaded-comments, custom-background, custom-header
+Text Domain: tempo
+Domain Path: /languages
+Author: myThem.es
+Author URI: http://mythem.es/
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+
+    Tempo, Copyright 2015 myThem.es ( email: tempo at mythem.es )
+    Tempo is distributed under the terms of the GNU GPLv2
+
+
+                     ________________
+                    |_____    _______|
+     ___ ___ ___   __ __  |  |  __       ____   ___ ___ ___       ____   ____
+    |   |   |   | |_ |  | |  | |  |___  |  __| |   |   |   |     |  __| |  __|
+    |   |   |   |  | |  | |  | |  __  | |  __| |   |   |   |  _  |  __| |__  |
+    |___|___|___|   |  |  |__| |_ ||_ | |____| |___|___|___| |_| |____| |____|
+                    |_|
+
+
+                         myThem.es Marketplace provides WordPress themes with
+                                    the best quality and the smallest prices.
+
+
+
+
+*/
+/* ALIGN TEXT */
+.align-none{
+    text-align: none;
+}
+.align-left{
+    text-align: left;
+}
+.align-center{
+    text-align: center;
+}
+.align-justify{
+    text-align: justify;
+}
+.align-right{
+    text-align: right;
+}
+
+/* WORDPRESS */
+.alignleft,
+.alignright{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.alignnone,
+.aligncenter{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.alignleft{
+    float:left;
+    margin-right: 15px;
+}
+.alignright{
+    float:right;
+    margin-left: 15px;
+}
+.aligncenter{
+    clear:both;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+.sticky,
+.gallery-caption,
+.screen-reader-text,
+.bypostauthor{}
+
+.wp-caption,
+.wp-caption p{
+    color: #ababab;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    max-width: 100% !important;
+}
+section .wp-caption p,
+section .wp-caption p.wp-caption-text{
+    color: #ababab;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    margin: 30px 0px;
+}
+.wp-caption img{
+    display: block;
+    margin: 0px auto;
+    max-width: 100% !important;
+}
+
+div.gallery dl.gallery-item img,
+div.gallery dl.gallery-item img a{
+    border: none !important;
+}
+
+#gallery-1 .gallery-caption{
+    color: #ababab;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    margin: 30px 0px;
+}

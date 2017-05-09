@@ -1,0 +1,46 @@
+Version 0.0.11 ( April 5, 2017 )
+________________________________________
+
+- auto hyphens settings ( general, header, headings and content )
+
+Version 0.0.10 ( March 23, 2017 )
+________________________________________
+
+- responsive improvements ( Header Headline and Description )
+
+Version 0.0.9 ( March 23, 2017 )
+________________________________________
+
+- responsive improvements ( Header )
+- added small php improvements
+
+Version 0.0.8 ( February 15, 2017 )
+________________________________________
+
+- added small css improvements jetpack social sharing
+- added small css improvements jetpack related posts
+- added small css improvements jetpack subscribe newsletter widget
+
+
+Version 0.0.7 ( February 7, 2017 )
+________________________________________
+
+- added small css improvements
+
+Version 0.0.6 ( February 5, 2017 )
+________________________________________
+
+- added small improvements
+
+Version 0.0.5 ( February 4, 2017 )
+________________________________________
+
+- added small css improvements ( typography, header, forms, buttons, widgets )
+- added small php improvements
+
+Version 0.0.4 ( January 27, 2017 )
+________________________________________
+
+- added small admin css improvements
+- added small css improvements ( typography, header, forms, buttons, widgets )
+- added small php improvements

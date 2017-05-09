@@ -1,0 +1,11 @@
+Translate the theme ( localization )
+
+The theme is Translation Ready but not contain the translated files for each language.
+So, you can translate the theme in your favorite language. More details about Localization you can find here:
+https://developer.wordpress.org/themes/functionality/localization/#pot-portable-object-template-files
+
+
+Theme languages details
+
+After you will unzip the archive sarmys.zip you must have folder tempo with theme files.
+Go to sarmys/languages/ here you can see file sarmys.pot ( Portable Object Template ).

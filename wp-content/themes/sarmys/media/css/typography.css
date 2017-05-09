@@ -1,0 +1,442 @@
+html,
+body {
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+a,
+a:hover {
+  border-bottom: none;
+}
+a {
+  border-bottom: 1px solid #d4d5de;
+  color: #656770;
+}
+a:hover {
+  border-bottom: 1px solid #a2a3ab;
+  color: #1d1d1f;
+}
+p a,
+ul a,
+ol a {
+  border-bottom: 1px solid #d4d5de;
+  color: #656770;
+}
+p a:hover,
+ul a:hover,
+ol a:hover {
+  border-bottom: 1px solid #a2a3ab;
+  color: #1d1d1f;
+}
+.tempo-meta a,
+.tempo-meta a:hover {
+  border: none;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  border-bottom: none;
+}
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+  border-bottom: none;
+}
+h1 {
+  color: #2d2f34;
+  letter-spacing: -0.25px;
+  font-weight: 600;
+  font-size: 55px;
+  line-height: 75px;
+  margin: 0.67em 0;
+}
+@media (max-width: 1200px) {
+  h1 {
+    font-size: 50px;
+    line-height: 65px;
+  }
+}
+@media (max-width: 780px) {
+  h1 {
+    font-size: 42px;
+    line-height: 55px;
+  }
+}
+@media (max-width: 480px) {
+  h1 {
+    font-size: 33px;
+    line-height: 45px;
+  }
+}
+.tempo-hentry h1 + *,
+.tempo-hentry h2 + *,
+.tempo-hentry h3 + *,
+.tempo-hentry h4 + *,
+.tempo-hentry h5 + *,
+.tempo-hentry h6 + * {
+  margin-top: 40px;
+}
+@media (max-width: 1120px) {
+  .tempo-hentry h1 + *,
+  .tempo-hentry h2 + *,
+  .tempo-hentry h3 + *,
+  .tempo-hentry h4 + *,
+  .tempo-hentry h5 + *,
+  .tempo-hentry h6 + * {
+    margin-top: 35px;
+  }
+}
+@media (max-width: 780px) {
+  .tempo-hentry h1 + *,
+  .tempo-hentry h2 + *,
+  .tempo-hentry h3 + *,
+  .tempo-hentry h4 + *,
+  .tempo-hentry h5 + *,
+  .tempo-hentry h6 + * {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 480px) {
+  .tempo-hentry h1 + *,
+  .tempo-hentry h2 + *,
+  .tempo-hentry h3 + *,
+  .tempo-hentry h4 + *,
+  .tempo-hentry h5 + *,
+  .tempo-hentry h6 + * {
+    margin-top: 25px;
+  }
+}
+.tempo-hentry h2 {
+  color: #2d2f34;
+  margin: 50px 0 40px;
+  font-size: 33px;
+  font-weight: normal;
+  line-height: 38px;
+}
+@media (max-width: 1120px) {
+  .tempo-hentry h2 {
+    margin: 45px 0 35px;
+    font-size: 30px;
+    line-height: 36px;
+  }
+}
+@media (max-width: 780px) {
+  .tempo-hentry h2 {
+    margin: 40px 0 30px;
+    font-size: 28px;
+    line-height: 34px;
+  }
+}
+@media (max-width: 480px) {
+  .tempo-hentry h2 {
+    margin: 35px 0 25px;
+    font-size: 26px;
+    line-height: 32px;
+  }
+}
+.tempo-hentry h3 {
+  color: #6d727a;
+  margin: 50px 0 40px;
+  font-size: 28px;
+  font-weight: normal;
+  line-height: 34px;
+}
+@media (max-width: 1120px) {
+  .tempo-hentry h3 {
+    margin: 45px 0 35px;
+    font-size: 26px;
+  }
+}
+@media (max-width: 780px) {
+  .tempo-hentry h3 {
+    margin: 40px 0 30px;
+    font-size: 24px;
+  }
+}
+@media (max-width: 480px) {
+  .tempo-hentry h3 {
+    margin: 35px 0 25px;
+    font-size: 22px;
+  }
+}
+.tempo-hentry h4 {
+  color: #6d727a;
+}
+.tempo-hentry p,
+.tempo-hentry ul,
+.tempo-hentry ol {
+  margin: 40px 0;
+  color: #757b85;
+  font-size: 17px;
+  line-height: 38px;
+}
+.tempo-hentry ul,
+.tempo-hentry ol {
+  margin-left: 7.5%;
+}
+.tempo-hentry ul {
+  list-style: disc;
+}
+.tempo-hentry li {
+  margin: 0 0 20px;
+  padding: 0 2.5%;
+}
+.tempo-hentry li:last-child {
+  margin-bottom: 0;
+}
+.tempo-hentry dt {
+  font-weight: bold;
+}
+.tempo-hentry dd {
+  margin: 0 0 20px 5%;
+  font-size: 16px;
+}
+.tempo-hentry table {
+  clear: both;
+  width: 100%;
+  border-collapse: collapse;
+  overflow-x: auto;
+  display: table;
+  font-size: 17px;
+  line-height: 38px;
+}
+.tempo-hentry thead {
+  width: 100%;
+}
+.tempo-hentry th {
+  background: #f0f0f0;
+  font-weight: bold;
+}
+.tempo-hentry td,
+.tempo-hentry th {
+  padding: 0.5rem;
+  border: 1px solid #dbdbdb;
+  text-align: left;
+}
+.tempo-hentry hr {
+  margin: 7.5% auto;
+  width: 60%;
+  height: 1px;
+  border: 0;
+  background: #dfdfdf;
+}
+.tempo-hentry q {
+  display: block;
+  max-width: 45%;
+  float: right;
+  text-align: right;
+  margin-top: 0 !important;
+  padding: 25px 0 25px 2.5%;
+  border-top: 2px solid #eee;
+  border-bottom: 2px solid #eee;
+  margin: 0 0 2.5% 25px;
+  color: #000;
+  font-size: 21px;
+  line-height: 34px;
+}
+.tempo-hentry q:after,
+.tempo-hentry q:before {
+  content: "";
+}
+.tempo-hentry q.left {
+  float: left;
+  text-align: left;
+  padding: 25px 2.5% 25px 0;
+  margin: 0 2.5% 25px 0;
+}
+.tempo-hentry q cite {
+  text-decoration: none;
+  font-style: normal;
+  display: block;
+  font-size: 18px;
+  margin-top: 15px;
+  color: #7F8088;
+}
+h4 {
+  color: #6d727a;
+  letter-spacing: -0.25px;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 34px;
+}
+h5 {
+  color: #6d727a;
+  letter-spacing: 0;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+}
+h6 {
+  color: #6d727a;
+  letter-spacing: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 34px;
+}
+.hentry {
+  word-wrap: break-word;
+}
+.hentry .tempo-hentry > p:first-child,
+.hentry .tempo-hentry > *:first-child:not(p) + p {
+  font-weight: normal;
+  color: #757b85;
+}
+.hentry .tempo-hentry blockquote {
+  border-left: 6px solid #e8eaed;
+  color: #38393c;
+  margin: 50px 7.5%;
+  padding: 25px 0 25px 5%;
+  text-align: left;
+  font-size: 16px;
+  line-height: 34px;
+  font-weight: normal;
+}
+@media (max-width: 1120px) {
+  .hentry .tempo-hentry blockquote {
+    margin: 50px 7.5%;
+  }
+}
+@media (max-width: 780px) {
+  .hentry .tempo-hentry blockquote {
+    margin: 45px 5%;
+  }
+}
+@media (max-width: 480px) {
+  .hentry .tempo-hentry blockquote {
+    margin: 40px 2.5%;
+  }
+}
+.hentry .tempo-hentry blockquote p {
+  color: #38393c;
+  font-size: 16px;
+  line-height: 34px;
+  font-weight: normal;
+  letter-spacing: -0.5px;
+  margin: 0 0 15px;
+}
+@media (max-width: 1120px) {
+  .hentry .tempo-hentry blockquote p {
+    font-size: 15px;
+    line-height: 34px;
+  }
+}
+@media (max-width: 780px) {
+  .hentry .tempo-hentry blockquote p {
+    font-size: 15px;
+    line-height: 32px;
+  }
+}
+@media (max-width: 480px) {
+  .hentry .tempo-hentry blockquote p {
+    font-size: 14px;
+    line-height: 30px;
+  }
+}
+.hentry .tempo-hentry blockquote cite {
+  display: block;
+  margin-top: 25px;
+  color: #c5c5c6;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 34px;
+  padding: 0px;
+}
+.hentry .tempo-hentry blockquote cite a {
+  color: #c5c5c6;
+  font-weight: normal;
+  font-style: normal;
+}
+.hentry .tempo-hentry blockquote cite:before {
+  content: '\2014 \00A0';
+}
+@media (max-width: 1120px) {
+  .hentry .tempo-hentry blockquote cite {
+    font-size: 19px;
+  }
+}
+@media (max-width: 780px) {
+  .hentry .tempo-hentry blockquote cite {
+    font-size: 18px;
+  }
+}
+@media (max-width: 480px) {
+  .hentry .tempo-hentry blockquote cite {
+    font-size: 17px;
+  }
+}
+.hentry .tempo-hentry blockquote footer {
+  color: #c5c5c6;
+  font-style: normal;
+  text-align: left;
+  padding: 0px;
+}
+.hentry .tempo-hentry blockquote footer:before {
+  content: none;
+}
+@media (max-width: 1120px) {
+  .hentry .tempo-hentry blockquote footer {
+    font-size: 19px;
+  }
+}
+@media (max-width: 780px) {
+  .hentry .tempo-hentry blockquote footer {
+    font-size: 18px;
+  }
+}
+@media (max-width: 480px) {
+  .hentry .tempo-hentry blockquote footer {
+    font-size: 17px;
+  }
+}
+article.hentry .tempo-hentry {
+  margin-top: 30px;
+}
+article.hentry .tempo-hentry:first-child {
+  margin-top: 0px;
+}
+.hentry .tempo-hentry > *:first-child {
+  margin-top: 0px;
+}
+pre {
+  overflow: auto;
+  margin: 40px 0;
+  padding: 20px 30px;
+  word-wrap: initial;
+  white-space: pre;
+  line-height: 22px;
+}
+pre,
+pre code {
+  font-size: 16px;
+}
+pre *:first-child {
+  margin-top: 0px;
+}
+pre *:last-child {
+  margin-bottom: 0px;
+}
+pre,
+code,
+kbd,
+tt {
+  background-color: transparent;
+  border: 1px solid #ebebf3;
+  border-radius: 3px;
+  color: #444;
+  font-family: Consolas, 'Liberation Mono', Courier, monospace;
+  font-size: 14px;
+  margin: 0 2px;
+}
+code,
+kbd,
+tt {
+  padding: 5px 8px;
+}

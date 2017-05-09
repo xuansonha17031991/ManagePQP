@@ -1,0 +1,726 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-05 10:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: cfgs/main.php:13
+msgid ""
+"Sarmys is a free WordPress child Theme that extends the Tempo free WordPress "
+"theme."
+msgstr ""
+
+#: widgets/sarmys.post-categories.class.php:17
+#: widgets/sarmys.post-categories.class.php:35
+msgid "Post Categories"
+msgstr ""
+
+#: widgets/sarmys.post-categories.class.php:19
+msgid "This widget can be used only for single post template"
+msgstr ""
+
+#: widgets/sarmys.post-categories.class.php:92
+#: widgets/sarmys.post-meta.class.php:126 widgets/sarmys.post-tags.class.php:92
+msgid "Title"
+msgstr ""
+
+#: widgets/sarmys.post-meta.class.php:17
+msgid "Post Meta"
+msgstr ""
+
+#: widgets/sarmys.post-meta.class.php:19
+msgid "This widget can be used only for single post templates"
+msgstr ""
+
+#: widgets/sarmys.post-meta.class.php:35
+msgid "Post Meta Details"
+msgstr ""
+
+#: widgets/sarmys.post-meta.class.php:64
+msgid "Edit"
+msgstr ""
+
+#: widgets/sarmys.post-meta.class.php:72
+#, php-format
+msgid "Written by %s"
+msgstr ""
+
+#: widgets/sarmys.post-meta.class.php:81 templates/article/meta/top.php:46
+#, php-format
+msgctxt "..."
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/sarmys.post-meta.class.php:95
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/sarmys.post-tags.class.php:18 widgets/sarmys.post-tags.class.php:36
+msgid "Post Tags"
+msgstr ""
+
+#: widgets/sarmys.post-tags.class.php:20
+msgid "This widget can be used only for single.php template"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:33 cfgs/pages/customize/tempo.layout.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:34
+msgid ""
+"Main Sidebar - is used by default for next templates: Blog, Archives, Author,"
+" Categories, Tags and Search Results."
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:42
+msgid "Front Page - Default Sidebar"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:43
+msgid "Front Page Sidebar - is used by default for Front Page template."
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:51
+msgid "Single Post - Default Sidebar"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:52
+msgid ""
+"Default Single Post Sidebar - is used by default for single post template."
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:60
+msgid "Page - Default Sidebar"
+msgstr ""
+
+#: cfgs/sidebars/cfgs.php:61
+msgid "Page Sidebar - is used by default for page template."
+msgstr ""
+
+#: templates/comments/no-comments.php:2
+msgid "There are currently no comments."
+msgstr ""
+
+#: templates/single/author.php:14
+msgid "Author"
+msgstr ""
+
+#: cfgs/pages/appearance/faq.php:17
+msgid "Customize the Theme"
+msgstr ""
+
+#: cfgs/pages/appearance/faq.php:25
+#: templates/admin/appearance/faq/premium.php:15
+msgid "Sarmys Premium"
+msgstr ""
+
+#: cfgs/pages/appearance/faq.php:26
+#, php-format
+msgid ""
+"Activate premium features and get extended core functionality without the "
+"risk of loosing any data or settings %1s with our %2s that upgrades our "
+"Sarmys free WordPress theme."
+msgstr ""
+
+#: cfgs/pages/appearance/faq.php:26
+msgid "Sarmys Premium Solution"
+msgstr ""
+
+#: cfgs/pages/customize/colors.php:12
+#: templates/admin/appearance/faq/customizer.php:7
+msgid "Colors"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:11
+#: cfgs/pages/customize/tempo.header.php:28
+#: templates/admin/appearance/faq/customizer.php:17
+msgid "First Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:15
+msgid "Display First Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:16
+msgid "enable / disable first Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:24
+#: cfgs/pages/customize/tempo.header.php:73
+msgid "Text"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:32
+#: cfgs/pages/customize/tempo.header.php:81
+#: templates/admin/appearance/faq/customizer.php:16
+msgid "Description"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:36
+msgid "first button description"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:40
+#: cfgs/pages/customize/tempo.header.php:89
+msgid "URL"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:48
+#: cfgs/pages/customize/tempo.header.php:96
+msgid "Open url in new window"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:49
+#: cfgs/pages/customize/tempo.header.php:97
+msgid "enable / disable link attribut target=\"_blank\""
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:60
+#: cfgs/pages/customize/tempo.header.php:77
+#: templates/admin/appearance/faq/customizer.php:18
+msgid "Second Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:64
+msgid "Display Second Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:65
+msgid "enable / disable second Button"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.header.php:85
+msgid "second button description"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:9
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:10
+msgid "Page Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:11
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:23
+#: cfgs/pages/customize/tempo.layout.php:38
+#: cfgs/pages/customize/tempo.layout.php:65
+#: cfgs/pages/customize/tempo.layout.php:91
+#: cfgs/pages/customize/tempo.layout.php:117
+#: templates/admin/appearance/faq/customizer.php:22
+msgid "Layout"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:27
+#: templates/admin/appearance/faq/customizer.php:14
+msgid "General"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:28
+#, php-format
+msgid ""
+"%s: On the premium version, the content width for layout with sidebars is "
+"945 pixels."
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:28
+msgid "IMPORANT"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:34
+msgid "Blog & Archives"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:35
+msgid ""
+"Default Layout is used for the next templates: Blog, Archives, Categories, "
+"Tags, Author and Search Results."
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:43
+#: cfgs/pages/customize/tempo.layout.php:70
+#: cfgs/pages/customize/tempo.layout.php:96
+#: cfgs/pages/customize/tempo.layout.php:122
+msgid "Left Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:44
+#: cfgs/pages/customize/tempo.layout.php:71
+#: cfgs/pages/customize/tempo.layout.php:97
+#: cfgs/pages/customize/tempo.layout.php:123
+msgid "Full Width"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:45
+#: cfgs/pages/customize/tempo.layout.php:72
+#: cfgs/pages/customize/tempo.layout.php:98
+#: cfgs/pages/customize/tempo.layout.php:124
+msgid "Right Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:50
+#: cfgs/pages/customize/tempo.layout.php:77
+#: cfgs/pages/customize/tempo.layout.php:103
+#: cfgs/pages/customize/tempo.layout.php:129
+msgid "Sidebar"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:60
+msgid "Front Page"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:61
+msgid ""
+"In order to use this option set you need to activate a staic page on Front "
+"Page from - \"Static Front Page\" tab."
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:87
+msgid "Post"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:88
+msgid ""
+"for the each post you can overwrite the Layout options with the custom "
+"settings ( on edit page meta box \"Layout\" )."
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:113
+msgid "Page"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.layout.php:114
+msgid ""
+"for the each page you can overwrite the Layout options with the custom "
+"settings ( on edit page meta box \"Layout\" )."
+msgstr ""
+
+#: cfgs/pages/customize/tempo.others.php:12
+#: templates/admin/appearance/faq/customizer.php:25
+msgid "Others"
+msgstr ""
+
+#: cfgs/pages/customize/tempo.others.php:16
+msgid "Custom CSS"
+msgstr ""
+
+#: templates/article/meta/top.php:19 templates/page/meta/top.php:20
+#: templates/single/meta/top.php:20
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+#: templates/article/meta/top.php:32 templates/page/meta/top.php:30
+#: templates/single/meta/top.php:30
+#, php-format
+msgid "posted on %s"
+msgstr ""
+
+#: templates/header/partial/default-wp-archive.php:6
+#: templates/header/partial/default-wp-author.php:15
+#: templates/header/partial/default-wp-blog.php:15
+#: templates/header/partial/default-wp-category.php:15
+#: templates/header/partial/default-wp-search.php:10
+#: templates/header/partial/default-wp-tag.php:15
+#, php-format
+msgid "One Article"
+msgid_plural "%s Articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/header/partial/default-wp-archive.php:17
+msgid "Daily Archives"
+msgstr ""
+
+#: templates/header/partial/default-wp-archive.php:22
+#: templates/header/partial/default-wp-archive.php:36
+#, php-format
+msgid "Yearly archives - %s"
+msgstr ""
+
+#: templates/header/partial/default-wp-archive.php:23
+#, php-format
+msgid "Monthly archives - %s"
+msgstr ""
+
+#: templates/header/partial/default-wp-archive.php:31
+msgid "Monthly Archives"
+msgstr ""
+
+#: templates/header/partial/default-wp-archive.php:43
+msgid "Yearly Archives"
+msgstr ""
+
+#: templates/header/partial/default-wp-archive.php:52
+msgid "Archive"
+msgstr ""
+
+#: templates/header/partial/default-wp-blog.php:6
+msgid "Blog"
+msgstr ""
+
+#: templates/header/partial/default-wp-category.php:16
+msgid "Category Archive"
+msgstr ""
+
+#: templates/header/partial/default-wp-search.php:4
+msgid "Search Result"
+msgstr ""
+
+#: templates/header/partial/default-wp-tag.php:16
+msgid "Tag Archive"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:1
+msgid ""
+"This theme comes with a set of options what allow you to customize content, "
+"header, layouts, social items and others. You can see next theme options "
+"panels if you go to:"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:2
+msgid "Appearance &rsaquo; Customize"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:3
+msgid "Here you can see:"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:6
+msgid "Site Identity"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:8
+msgid "Background Image"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:9
+msgid "Header Image"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:11
+msgid "Header Elements"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:15
+msgid "Headline"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:21
+msgid "Additional"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:23
+msgid "Social"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:28
+msgid "Copyright"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:29
+msgid "Custom CSS ( with support for: IE, IE 10, IE 9 and IE 8 )"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:33
+msgid "Menus"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:34
+msgid "Widgets"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:35
+msgid "Static Front Page"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:36
+msgid "Additional CSS"
+msgstr ""
+
+#: templates/admin/appearance/faq/customizer.php:39
+msgid ""
+"All you have to do is play with them and view the live changes. Try and you "
+"will discover how easy it is to customize your own style."
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:9
+msgid "Features"
+msgstr ""
+
+#. Name of the theme
+#: templates/admin/appearance/faq/premium.php:10
+msgid "Sarmys"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:12
+msgid "free version"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:18
+msgid "upgrade to premium"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:25
+msgid "Support"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:31
+msgid "Customizations"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:37
+msgid "Custom Favicon"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:43
+msgid "Custom Logo"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:49
+msgid "Custom Colors"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:51
+msgid "~ 25 + for each Category"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:55
+msgid "Menu Custom Colors"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:61
+msgid "Custom Header"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:67
+msgid "Custom Header for each Post ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:73
+msgid "Custom Header for each Page ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:79
+msgid "Custom Header type Sample Image ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:85
+msgid "Custom Header type Portfolio ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:91
+msgid "Custom Header type Audio ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:97
+msgid "Custom Header type Video ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:103
+msgid "Custom Header type Google Map ( one click setup )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:109
+msgid "Responsive layout"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:115
+msgid "Sidebars &amp; Custom Layouts"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:121
+msgid "Custom Sidebars builder"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:128
+msgid "Footer light Section custom Sidebar"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:130
+#: templates/admin/appearance/faq/premium.php:136
+msgid "1 - 4 ( you can customize number of columns )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:134
+msgid "Footer dark Section custom Sidebar"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:140
+msgid "Custom Sidebars for each Post"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:146
+msgid "Custom Sidebars for each Page"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:152
+msgid "Shortcodes"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:158
+msgid "Shortcodes Manager"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:165
+msgid "Custom Page Template"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:171
+msgid "Classic Blog View ( + custom page template )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:177
+msgid "Grid Blog View ( + custom page template )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:183
+msgid "Portfolio Blog View ( + custom page template )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:189
+msgid "Custom page template filter posts by tags"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:195
+msgid "Custom page template filter posts by categories"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:203
+msgid "Footer copyright control"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:204
+msgid "PARTIAL"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:205
+msgid "FULL"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:209
+msgid "Footer custom Menu"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:215
+msgid "Footer social Items"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:221
+msgid "Custom CSS Options ( special support: IE, IE8, IE9, IE10, IE11 )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:227
+msgid "Plugin Contact Form 7 ( styled )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:233
+msgid "Plugin Easy Google Fonts ( support )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:235
+msgid "FULL ( ~ 20 Custom Controlls )"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:242
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: templates/admin/appearance/faq/premium.php:243
+msgid "compatible with free version"
+msgstr ""
+
+#: templates/admin/appearance/faq/translate.php:1
+#, php-format
+msgid "The theme is %s but not contain the translated files for each language."
+msgstr ""
+
+#: templates/admin/appearance/faq/translate.php:1
+msgid "Translation Ready"
+msgstr ""
+
+#: templates/admin/appearance/faq/translate.php:2
+#, php-format
+msgid ""
+"So, you can translate the theme in your favorite language. More details "
+"about %1s you can find %2s."
+msgstr ""
+
+#: templates/admin/appearance/faq/translate.php:2
+msgid "Localization"
+msgstr ""
+
+#: templates/admin/appearance/faq/translate.php:2
+msgid "here"
+msgstr ""
+
+#: templates/admin/appearance/faq/translate.php:4
+msgid "Theme languages details"
+msgstr ""
+
+#: templates/admin/appearance/faq/translate.php:6
+#, php-format
+msgid ""
+"After you will unzip the archive %1s you must have folder %2s with theme "
+"files. Go to %3s here you can see file %3s ( Portable Object Template )."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Sarmys is an white, clean, elegant, modern, beautiful and creative free "
+"WordPress theme built with HTML5 and CSS3. The clean, modern design can be "
+"used for any type of website blog: business, corporate, portfolio, products, "
+"creative, arts, design, construction, transport, manufacturing, ecology, "
+"cosmetics, beauty, hygiene, sports, culture, presentations, food business, "
+"restaurants, drink, bar, pub, club, radio, tv, television, music, movies, "
+"live style, garden, cuisine, chemical, pharmaceutical, medicine, travel, "
+"sample blog, agriculture, science, politics and more others. Theme comes "
+"with nice flat design concept and responsive layout. This theme is suitable "
+"for all type of devices: desktop, notebook, iPhone, tablete and others. "
+"Responsive design and grid system is based on twitter bootstrap framework. "
+"Theme is developed by myThem.es and it comes with nice header parallax "
+"effect. We carefully handcrafted this theme with a strong focus on "
+"typography, usability and overall user-experience. This beautiful and easy "
+"to customize WordPress theme come with live preview changes integrated with "
+"wp customize. It’s very quick to setup and easy to customize and it comes "
+"with free support. Theme features: custom header, parallax header, header "
+"buttons, custom logo, custom favicon, header custom colors, custom "
+"background color, custom background image, custom footer, custom copyright, "
+"custom social links, custom css, custom layout, left sidebar, right sidebar, "
+"full width layout, additional sidebars, custom widgets, support for jetpack "
+"plugin, styled contact form 7 plugin. Please read the FAQ: Admin Dashboard "
+"&gt; Appearances &gt; Theme FAQ. See our demo: http://bit.ly/2kI7p9O"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"http://mythem.es/item/sarmys-is-a-simple-clean-and-creative-free-wordpress-"
+"tempo-child-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "myThem.es"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://mythem.es/"
+msgstr ""

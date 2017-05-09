@@ -1,0 +1,67 @@
+Version 0.0.36 ( April 5, 2017 )
+________________________________________
+
+- small css fix for <pre>
+
+Version 0.0.35 ( April 5, 2017 )
+________________________________________
+
+- auto hyphens settings ( general, header, headings and content )
+
+Version 0.0.34 ( March 23, 2017 )
+________________________________________
+
+- multiple responsive improvements
+- added small php improvements
+- added new option ( Visible / Invisible Menu )
+- added new option ( Show / Hide Breadcrumbs Navigation )
+
+Version 0.0.31 ( February 4, 2017 )
+________________________________________
+
+- added small css improvements
+- added small php improvements
+
+Version 0.0.30 ( January 27, 2017 )
+________________________________________
+
+- added small admin css improvements
+- added small css improvements
+- added small php improvements
+
+Version 0.0.28 ( December 27, 2016 )
+________________________________________
+
+- added small admin css improvements
+- added small header css improvements
+- added small php improvements
+
+Version 0.0.27 ( December 20, 2016 )
+________________________________________
+
+- added small improvements for Height of the Header Elements
+- added small css improvements
+- added small php improvements
+
+Version 0.0.26 ( December 15, 2016 )
+________________________________________
+
+- small fix on read mods/options functions
+- small css fix for Header Logo and Header Buttons
+- small css fix for Typography
+- small css fix for Buttons and Forms
+
+Version 0.0.25 ( December 8, 2016 )
+________________________________________
+
+- added default Header Image
+- small fix for the Header Partial Template
+- small css fix for Typography
+- added some additional classes for top and bottom meta on single and blog templates
+
+
+Version 0.0.24 ( December 4, 2016 )
+________________________________________
+
+- small css fix for the Site Identity
+- small css fix for the Comments Form ( space between the delimiter and the content )

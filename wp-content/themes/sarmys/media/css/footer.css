@@ -1,0 +1,174 @@
+aside.tempo-footer.light-sidebars + footer.tempo-footer div.sarmys-social {
+  border-top: 1px solid #ebebeb;
+}
+footer.tempo-footer {
+  background: #25292b;
+}
+footer.tempo-footer div.sarmys-social {
+  background: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+footer.tempo-footer div.sarmys-social a {
+  background-color: #f5f5f5;
+  border: none;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  text-align: center;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-radius: 100px;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+footer.tempo-footer div.sarmys-social a:before {
+  display: block;
+  color: #757b85;
+  font-size: 18px;
+  line-height: 50px;
+}
+footer.tempo-footer div.sarmys-social a:hover:before {
+  color: #ffffff;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-rss:hover {
+  background-color: #ff7600;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-smashing:hover {
+  background-color: #ff462c;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-flickr:hover {
+  background-color: #0062dd;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-vimeo:hover {
+  background-color: #00beff;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-vimeo-circled:hover {
+  background-color: #00beff;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-twitter:hover {
+  background-color: #00b0ef;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-facebook:hover {
+  background-color: #265999;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-gplus:hover {
+  background-color: #f32e31;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-pinterest:hover {
+  background-color: #ef0021;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-tumblr:hover {
+  background-color: #174863;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-linkedin:hover {
+  background-color: #0082b2;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-dribbble:hover {
+  background-color: #ff2788;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-stumbleupon:hover {
+  background-color: #ff2419;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-lastfm:hover {
+  background-color: #fb0000;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-github:hover {
+  background-color: #0084c5;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-instagram:hover {
+  background-color: #00749c;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-dropbox:hover {
+  background-color: #0083d1;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-evernote:hover {
+  background-color: #7ac142;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-flattr:hover {
+  background-color: #ff6f00;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-odnoklassniki:hover {
+  background-color: #f58220;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-skype:hover {
+  background-color: #00b3f2;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-renren:hover {
+  background-color: #0d80e4;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-picasa:hover {
+  background-color: #415e5f;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-soundcloud:hover {
+  background-color: #ff4f00;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-mixi:hover {
+  background-color: #d1ad5a;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-behance:hover {
+  background-color: #0066ff;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-google-circles:hover {
+  background-color: #f32e31;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-youtube:hover {
+  background-color: #cd201f;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-youtube-play:hover {
+  background-color: #cd201f;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-vkontakte:hover {
+  background-color: #4E729A;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-reddit:hover {
+  background-color: #cfe3f7;
+}
+footer.tempo-footer div.sarmys-social a.tempo-icon-rdio:hover {
+  background-color: #006ed4;
+}
+footer.tempo-footer div.tempo-copyright {
+  background: #202325;
+}
+footer.tempo-footer div.tempo-copyright p {
+  color: rgba(255, 255, 255, 0.8);
+  margin: 22px 0px;
+  font-size: 14px;
+}
+footer.tempo-footer div.tempo-copyright p a {
+  color: #ffffff;
+}
+footer.tempo-footer p a,
+footer.tempo-footer ul a,
+footer.tempo-footer ol a,
+footer.tempo-footer p a:hover,
+footer.tempo-footer ul a:hover,
+footer.tempo-footer ol a:hover {
+  text-decoration: none;
+  border: none;
+}
+footer.tempo-footer .tempo-nav {
+  border: none;
+  background-color: #1a1c1e;
+}
+footer.tempo-footer .tempo-nav nav ul li a {
+  color: rgba(255, 255, 255, 0.6);
+}
+footer.tempo-footer .tempo-nav nav ul li a:hover {
+  color: rgba(255, 255, 255, 0.9);
+}
+aside.tempo-footer.dark-sidebars {
+  background-color: transparent;
+  border: none;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
